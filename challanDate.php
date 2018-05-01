@@ -258,8 +258,7 @@
    <script src="vendor/datatables-buttons/js/buttons.print.js"></script>
    <script src="vendor/datatables-responsive/js/dataTables.responsive.js"></script>
    <script src="vendor/datatables-responsive/js/responsive.bootstrap.js"></script>
-   <script src="app/js/demo/demo-datatable.js"></script> 
-   <script src="js/progress.js"></script>   
+  <!-- <script src="app/js/demo/demo-datatable.js"></script> -->
    <script src="js/js/challandate_js.js"></script>   
 </body>
 
